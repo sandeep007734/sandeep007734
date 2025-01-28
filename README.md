@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sandeep007734 aka Sandeep Kumar
 - 👀 I’m interested in operating system, architecture, and compilers.
-- 🌱 I’m currently learning IIT Delhi
-- 💞️ I’m looking to collaborate on anything interesting
+- 🌱 I’m currently a research scientist at Intel Labs, Bangalore, India.
 - 📫 How to reach me just send a mail on sandeep007734@gmail.com
 
 <!---
